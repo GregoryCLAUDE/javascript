@@ -28,7 +28,7 @@ multiplication (120, 45)
 function division (a,b){
 	if (b > 0) console.log(a/b);
 
-	else console.log("Can't divide by 0") };
+	else console.log("Can't divide by 0");};
 
 division (25, 5)
 division (25, 0)
